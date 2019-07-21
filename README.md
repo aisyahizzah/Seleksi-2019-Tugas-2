@@ -11,7 +11,10 @@ Dalam melakukan <i>data storing</i> ini, saya menggunakan MySQL. Adapun alasan s
 
 ## Screenshots
 
-<strong>Tabel Informasi</strong>
+<strong>Daftar Teater Kota</strong>
+<strong>Informasi Teater</strong>
+<strong>Daftar Film</strong>
+<strong>Jadwal Tayang</strong>
 
 ## Reference
 
